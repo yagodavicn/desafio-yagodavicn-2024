@@ -8,7 +8,7 @@
     "test": "jest --config jest.config.js",
     "start": "node src/desafio.js"
   },
-  "author": "Seu Nome",
+  "author": "Yago Davi",
   "license": "ISC",
   "devDependencies": {
     "@babel/preset-env": "^7.25.4",
