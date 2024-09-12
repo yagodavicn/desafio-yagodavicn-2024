@@ -3,7 +3,8 @@
 ## Para baixar as dependências use: npm install
 ## Para executar o código use: npm start
 ## Para rodar os testes use: npm test
-## Resumindo, use: git clone https://github.com/yagodavicn/desafio-yagodavicn-2024.git
+## Resumindo, use: 
+git clone https://github.com/yagodavicn/desafio-yagodavicn-2024.git
 cd desafio-yagodavicn-2024
 npm install
 npm start
