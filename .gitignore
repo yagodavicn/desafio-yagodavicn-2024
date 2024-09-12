@@ -1,0 +1,22 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Jest cache
+coverage/
+jest-cache/
+jest-output/
+
+# Babel cache
+.babel_cache/
+
+# Environment files
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
