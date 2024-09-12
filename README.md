@@ -3,6 +3,11 @@
 ## Para baixar as dependências use: npm install
 ## Para executar o código use: npm start
 ## Para rodar os testes use: npm test
+## Resumindo, use: 
+git clone https://github.com/yagodavicn/desafio-yagodavicn-2024.git
+cd desafio-yagodavicn-2024
+npm install
+npm start
 
 ## DIA 01 (08/09/2024)
 No primeiro dia observei o que eu precisava fazer para resolver o desafio, juntamente com as instalações dos programas e aprendizado de algumas funções, métodos e códigos, queria ter começado no mesmo dia que o desafio foi entregue (06/09/2024), porém acabei ficando doente e repousei no dia 06/09 e no dia 07/09 para poder começar com tudo hoje.
